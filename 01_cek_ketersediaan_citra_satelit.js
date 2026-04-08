@@ -1,3 +1,4 @@
+// variabel geometry
 var geometry = 
     /* color: #d63000 */
     /* displayProperties: [
